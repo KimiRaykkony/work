@@ -1,0 +1,1 @@
+# Repositório para estudos em JavaScript - IFMA Pedreiras
