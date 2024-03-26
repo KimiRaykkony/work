@@ -5,6 +5,8 @@ Equipe:
 
 Comandos:
 
+https://i.ytimg.com/vi/e9lnsKot_SQ/maxresdefault.jpg
+
 $ git clone https://github.com/KimiRaykkony/work.git
 
 $ git add *
