@@ -1,7 +1,7 @@
 # Repositório para estudos em JavaScript - IFMA Pedreiras
 ---
 Equipe:
-> Raimundo, Raykkony e Victor
+> Raimundo, Raykkony, Victor, Glauco e Alexandre
 
 Comandos:
 
