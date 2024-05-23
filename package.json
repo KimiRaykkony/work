@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@oclif/screen": "^3.0.8"
+  }
+}
