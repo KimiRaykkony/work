@@ -2,6 +2,15 @@
   "expo": {
     "name": "fblogin",
     "slug": "fblogin",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#004c01"
+    },
+    "imagelg": {
+      "image": "./assets/imagelogin.png",
+      "backgroundColor": "##004c01"
   }
+}
 }
