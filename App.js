@@ -168,3 +168,14 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
 });
+/* CRUD de planilha de controle bovino:
+
+localidade(onde esta localizado)
+natureza(quando nasceu ou comprou para quando ele vendeu ou matou)
+descrição
+quantidade
+data
+foto(opcional)
+total de animais
+numeração do animal
+ */
