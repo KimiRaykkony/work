@@ -19,7 +19,8 @@
     "react-native": "0.74.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.20.0",
+    "metro": "^0.80.12"
   },
   "private": true
 }
